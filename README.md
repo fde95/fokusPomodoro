@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p align="center"> <a href="https://california-barber.vercel.app/">California Barber</a></p>
+  <p align="center"> <a href="https://fokus-pomodoro-nu.vercel.app/">Fokus</a></p>
   <img width="600" src="https://media.giphy.com/media/r4nAHrTZdM0jp5rDF4/giphy.gif" alt="Comedy Please GIF "></a>
 </h1>
 <div style="display: inline_block">
