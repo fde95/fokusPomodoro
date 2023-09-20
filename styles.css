@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
     background: #010B15;
 }
 
-.app__footer-text {
+.app__footer-text, .app__footer-link {
     color: rgba(182, 182, 182, 0.8);
     text-align: center;
     font-family: Montserrat;
@@ -175,6 +175,10 @@ h1, h2, h3, h4, h5, h6 {
     font-style: normal;
     font-weight: 400;
     line-height: 150%;
+    text-decoration: none;
+}
+.app__footer-link{
+    font-weight: bold;
 }
 
 /* toggle */
